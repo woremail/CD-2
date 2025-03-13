@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+
+<text><![CDATA[<b>Learning</b>]]></text>
+<text><![CDATA[Rearrange the given jumbled letters to form the name of the subject related to the image.]]></text>
+<text><![CDATA[Look at the picture. What subject does it represent?]]></text>
+<text><![CDATA[Rearrange the jumbled letters to form the name of the subject.]]></text>
+<text><![CDATA[Click on a letter and then place it in the correct position. Then click 'Submit'.]]></text>
+
+
+<!-- Number -->
+
+
+<number><![CDATA[<B>1</B>]]></number>
+<number><![CDATA[<B>2</B>]]></number>
+<number><![CDATA[<B>3</B>]]></number>
+<number><![CDATA[<B>4</B>]]></number>
+<number><![CDATA[<B>5</B>]]></number>
+<number><![CDATA[<B>6</B>]]></number>
+<number><![CDATA[<B>7</B>]]></number>
+<number><![CDATA[<B>8</B>]]></number>
+
+
+<!-- !!Welldone!! -->
+
+
+<feedback><![CDATA[That is correct! Well done!]]></feedback>
+<feedback><![CDATA[Oh no! That is not correct.Try again!]]></feedback>
+<feedback><![CDATA[Oops! That is wrong too!]]></feedback>
+<feedback><![CDATA[Here is the correct answer.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+
+<option><![CDATA[S]]></option>
+<option><![CDATA[C]]></option>
+<option><![CDATA[I]]></option>
+<option><![CDATA[E]]></option>
+<option><![CDATA[N]]></option>
+<option><![CDATA[C]]></option>
+<option><![CDATA[E]]></option>
+
+<option><![CDATA[H]]></option>
+<option><![CDATA[I]]></option>
+<option><![CDATA[S]]></option>
+<option><![CDATA[T]]></option>
+<option><![CDATA[O]]></option>
+<option><![CDATA[R]]></option>
+<option><![CDATA[Y]]></option>
+
+<option><![CDATA[M]]></option>
+<option><![CDATA[A]]></option>
+<option><![CDATA[T]]></option>
+<option><![CDATA[H]]></option>
+<option><![CDATA[E]]></option>
+<option><![CDATA[M]]></option>
+<option><![CDATA[A]]></option>
+<option><![CDATA[T]]></option>
+<option><![CDATA[I]]></option>
+<option><![CDATA[C]]></option>
+<option><![CDATA[S]]></option>
+
+<option><![CDATA[L]]></option>
+<option><![CDATA[A]]></option>
+<option><![CDATA[N]]></option>
+<option><![CDATA[G]]></option>
+<option><![CDATA[U]]></option>
+<option><![CDATA[A]]></option>
+<option><![CDATA[G]]></option>
+<option><![CDATA[E]]></option>
+
+<option><![CDATA[S]]></option>
+<option><![CDATA[P]]></option>
+<option><![CDATA[O]]></option>
+<option><![CDATA[R]]></option>
+<option><![CDATA[T]]></option>
+<option><![CDATA[S]]></option>
+
+<option><![CDATA[G]]></option>
+<option><![CDATA[E]]></option>
+<option><![CDATA[O]]></option>
+<option><![CDATA[G]]></option>
+<option><![CDATA[R]]></option>
+<option><![CDATA[A]]></option>
+<option><![CDATA[P]]></option>
+<option><![CDATA[H]]></option>
+<option><![CDATA[Y]]></option>
+
+<option><![CDATA[<B>Submit</B>]]></option>
+
+</data>
+</framexml>

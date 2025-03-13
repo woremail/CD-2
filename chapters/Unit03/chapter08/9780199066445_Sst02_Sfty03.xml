@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<b>Safety</b>]]></text>
+<text><![CDATA[Is the statement true or false? Click the ball that shows the correct answer.]]></text>
+<text><![CDATA[true]]></text>
+<text><![CDATA[false]]></text>
+
+<!-- Number -->
+
+<number><![CDATA[<B>1</B>]]></number>
+<number><![CDATA[<B>2</B>]]></number>
+<number><![CDATA[<B>3</B>]]></number>
+<number><![CDATA[<B>4</B>]]></number>
+<number><![CDATA[<B>5</B>]]></number>
+<number><![CDATA[<B>6</B>]]></number>
+<number><![CDATA[<B>7</B>]]></number>
+<number><![CDATA[<B>8</B>]]></number>
+<number><![CDATA[<B>9</B>]]></number>
+<number><![CDATA[<B>10</B>]]></number>
+
+<!-- Questions -->
+<question><![CDATA[We should not go out alone on the road.]]></question>
+<question><![CDATA[Accidents happen when we are careful.]]></question>
+<!-- <question><![CDATA[We should not touch the electric switches with wet hands.]]></question> -->
+<question><![CDATA[We should not touch electric switches with wet hands.]]></question>
+<question><![CDATA[We should cross the road from anywhere we want to.]]></question>
+<question><![CDATA[We do not have to look left or right while crossing the road.]]></question>
+<question><![CDATA[If there are things lying on the ground, we will not slip.]]></question>
+<!-- <question><![CDATA[We can burn ourselves when playing with matches.]]></question> -->
+<question><![CDATA[We could burn ourselves if we play with matches.]]></question>
+<question><![CDATA[Touching bare electric wires can kill us.]]></question>
+<question><![CDATA[At home, we can play with sharp instruments.]]></question>
+<question><![CDATA[This symbol represents danger.]]></question>
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[That is correct! Well done!]]></feedback>
+<feedback><![CDATA[Oh no! That is not correct.]]></feedback>
+<feedback><![CDATA[Oops! That is wrong too.]]></feedback>
+<feedback><![CDATA[Here is the correct answer.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+<feedback1><![CDATA[This is the correct answer.]]></feedback1>
+
+</data>
+</framexml>

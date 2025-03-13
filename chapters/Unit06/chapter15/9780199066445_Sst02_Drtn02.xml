@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<B>Directions</B>]]></text>
+<text><![CDATA[up or down]]></text>
+<text><![CDATA[left or right]]></text>
+<text><![CDATA[North, south, east, and west are special words we use to show direction on a map.]]></text>
+<text><![CDATA[The Sun rises in the east and sets in the west.]]></text>
+<!-- <text><![CDATA[While facing the rising sun, north is to your left, south is to your right and west is behind you.]]></text> -->
+<text><![CDATA[While facing the rising Sun, north is to your left, south is to your right and west is behind you.]]></text>
+<!-- <text><![CDATA[Compass is an instrument to show directions.]]></text> -->
+<text><![CDATA[A compass is an instrument to show directions.]]></text>
+
+
+
+</data>
+</framexml>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<B>Directions</B>]]></text>
+<!-- <text><![CDATA[Little Sania wants to see this locality. Use the arrow keys of your keyboard to move her.]]></text> -->
+<text><![CDATA[Little Sania wants to see this area. Use the arrow keys on your keyboard to move her. ]]></text>
+<text><![CDATA[Sania walks towards the post office to post a letter.]]></text>
+<text><![CDATA[She then stops at the flower shop.]]></text>
+<text><![CDATA[From the shop, she goes to the park to play.]]></text>
+<text><![CDATA[Then she goes to the bakery to buy some bread.]]></text>
+<text><![CDATA[Finally she goes home.]]></text>
+
+<!-- Place -->
+
+<place><![CDATA[Sania's house]]></place>
+<place><![CDATA[market]]></place>
+<place><![CDATA[bank]]></place>
+<place><![CDATA[park]]></place>
+<place><![CDATA[post office]]></place>
+<place><![CDATA[bakery]]></place>
+<place><![CDATA[flower shop]]></place>
+<place><![CDATA[school]]></place>
+<place><![CDATA[Sania]]></place>
+
+
+<!-- Number -->
+
+<number><![CDATA[<B>1</B>]]></number>
+<number><![CDATA[<B>2</B>]]></number>
+<number><![CDATA[<B>3</B>]]></number>
+<number><![CDATA[<B>4</B>]]></number>
+<number><![CDATA[<B>5</B>]]></number>
+<number><![CDATA[<B>6</B>]]></number>
+<number><![CDATA[<B>7</B>]]></number>
+<number><![CDATA[<B>8</B>]]></number>
+
+
+<!-- direction -->
+<direction><![CDATA[<B>N</B>]]></direction>
+<direction><![CDATA[<B>W</B>]]></direction>
+<direction><![CDATA[<B>E</B>]]></direction>
+<direction><![CDATA[<B>S</B>]]></direction>
+
+
+
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[That is correct! Well done!]]></feedback>
+<feedback><![CDATA[Oh no! That is not correct.]]></feedback>
+<feedback><![CDATA[Oops! That is wrong too.]]></feedback>
+<feedback><![CDATA[Game over!]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+<feedback><![CDATA[Here is the correct answer.]]></feedback>
+
+
+</data>
+</framexml>

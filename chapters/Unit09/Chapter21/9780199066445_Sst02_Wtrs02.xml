@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<B>Water</B>]]></text>
+<text><![CDATA[Water is very important for all living things.]]></text>
+<!-- <text><![CDATA[Sunlight heats water to form water vapours.]]></text> -->
+<text><![CDATA[Sunlight heats water to form water vapour.]]></text>
+<text><![CDATA[Water vapours form clouds.]]></text>
+<text><![CDATA[The moisture in the clouds falls back as rain or snow.]]></text>
+<text><![CDATA[Rain and snow are sources of fresh water.]]></text>
+<text><![CDATA[rain]]></text>
+<text><![CDATA[snow]]></text>
+<text><![CDATA[Reservoirs and dams store river water.]]></text>
+<!-- <text><![CDATA[Canals and pipes help carry water to Agricultural fields, Factories and Homes.]]></text> -->
+<text><![CDATA[Canals and pipes carry water to fields, factories, and homes.]]></text>
+<text><![CDATA[agricultural fields]]></text>
+<text><![CDATA[factories]]></text>
+<text><![CDATA[homes]]></text>
+<text><![CDATA[We should not waste water.]]></text>
+<text><![CDATA[Drinking water should be kept clean and covered.]]></text>
+<text><![CDATA[canal]]></text>
+
+</data>
+</framexml>

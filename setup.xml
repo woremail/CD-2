@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<pop><![CDATA[Hi there! I am Bunny - the rabbit!]]></pop>
+<pop><![CDATA[Today, I am here to help you learn more about your health,]]></pop>
+<pop><![CDATA[family, school, and other parts of your daily life.]]></pop>
+<pop><![CDATA[To proceed, just click any of the units on the screen!]]></pop>
+<pop><![CDATA[Now click any one of the lessons.]]></pop>
+<pop><![CDATA[Click any one of the units.]]></pop>
+<pop><![CDATA[Now click the lesson.]]></pop>
+
+
+<unit>
+	<Num><![CDATA[01]]></Num>
+	<name><![CDATA[Unit 1 : Myself and My Family]]></name>
+	<main><![CDATA[chapters/Unit01/chapter03/9780199066445_Sst02_Rad01.swf]]></main>
+	<lesson>
+		<name><![CDATA[Lesson 3 : Mr Raza Ali's day]]></name>
+		<path><![CDATA[chapters/Unit01/chapter03/9780199066445_Sst02_Rad02.swf]]></path>
+		<path><![CDATA[chapters/Unit01/chapter03/9780199066445_Sst02_Rad03.swf]]></path>
+	</lesson>
+</unit>
+
+<unit>
+	<Num><![CDATA[02]]></Num>
+	<name><![CDATA[Unit 2 : My School]]></name>
+	<main><![CDATA[chapters/Unit02/chapter04/9780199066445_Sst02_Ys01.swf]]></main>
+	<main><![CDATA[chapters/Unit02/chapter05/9780199066445_Sst02_Lern01.swf]]></main>
+	<lesson>
+		<name><![CDATA[Lesson 4 : Your school]]></name>
+		<path><![CDATA[chapters/Unit02/chapter04/9780199066445_Sst02_Ys02.swf]]></path>
+		<path><![CDATA[chapters/Unit02/chapter04/9780199066445_Sst02_Ys03.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Lesson 5 : Learning]]></name>
+		<path><![CDATA[chapters/Unit02/chapter05/9780199066445_Sst02_Lern02.swf]]></path>
+		<path><![CDATA[chapters/Unit02/chapter05/9780199066445_Sst02_Lern03.swf]]></path>
+	</lesson>
+</unit>
+
+<unit>
+	<Num><![CDATA[03]]></Num>
+	<name><![CDATA[Unit 3 : Good Habits]]></name>
+	<main><![CDATA[chapters/Unit03/chapter06/9780199066445_Sst02_Lt01.swf]]></main>	
+	<main><![CDATA[chapters/Unit03/chapter07/9780199066445_Sst02_Kephelt01.swf]]></main>	
+	<main><![CDATA[chapters/Unit03/chapter08/9780199066445_Sst02_Sfty01.swf]]></main>	
+	<lesson>
+		<name><![CDATA[Lesson 6 : Living together]]></name>
+		<path><![CDATA[chapters/Unit03/chapter06/9780199066445_Sst02_Lt02.swf]]></path>
+		<path><![CDATA[chapters/Unit03/chapter06/9780199066445_Sst02_Lt03.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Lesson 7 : Keeping healthy]]></name>
+		<path><![CDATA[chapters/Unit03/chapter07/9780199066445_Sst02_Kephelt02.swf]]></path>
+		<path><![CDATA[chapters/Unit03/chapter07/9780199066445_Sst02_Kephelt03.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Lesson 8 : Safety]]></name>
+		<path><![CDATA[chapters/Unit03/chapter08/9780199066445_Sst02_Sfty02.swf]]></path>
+		<path><![CDATA[chapters/Unit03/chapter08/9780199066445_Sst02_Sfty03.swf]]></path>
+	</lesson>
+</unit>
+
+<unit>
+	<Num><![CDATA[05]]></Num>
+	<name><![CDATA[Unit 5 : Buildings]]></name>
+	<main><![CDATA[chapters/Unit05/chapter12/9780199066445_Sst02_Bldtl01.swf]]></main>
+	<lesson>
+		<name><![CDATA[Lesson 12-13 : Builders and Tools]]></name>
+		<path><![CDATA[chapters/Unit05/chapter12/9780199066445_Sst02_Bldtl02.swf]]></path>
+		<path><![CDATA[chapters/Unit05/chapter12/9780199066445_Sst02_Bldtl03.swf]]></path>
+	</lesson>	
+	<lesson>
+		<name><![CDATA[Lesson 13 : Tools]]></name>
+	</lesson>	
+</unit>
+<unit>
+	<Num><![CDATA[06]]></Num>
+	<name><![CDATA[Unit 6 : Time and Movement]]></name>
+	<main><![CDATA[chapters/Unit06/chapter15/9780199066445_Sst02_Drtn01.swf]]></main>
+	<lesson>
+		<name><![CDATA[Lesson 15 : Directions]]></name>
+		<path><![CDATA[chapters/Unit06/chapter15/9780199066445_Sst02_Drtn02.swf]]></path>
+		<path><![CDATA[chapters/Unit06/chapter15/9780199066445_Sst02_Drtn03.swf]]></path>
+	</lesson>
+</unit>
+
+<unit>
+	<Num><![CDATA[08]]></Num>
+	<name><![CDATA[Unit 8 : Animals and Plants]]></name>
+	<main><![CDATA[chapters/Unit08/chapter17/9780199066445_Sst02_Paus01.swf]]></main>
+	<main><![CDATA[chapters/Unit08/chapter18/9780199066445_Sst02_Asus01.swf]]></main>
+	<lesson>
+		<name><![CDATA[Lesson 17-18 : Plants around us]]></name>
+		<path><![CDATA[chapters/Unit08/chapter17/9780199066445_Sst02_Paus02.swf]]></path>
+		<path><![CDATA[chapters/Unit08/chapter17/9780199066445_Sst02_Paus03.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[and Animals around us]]></name>
+		<path><![CDATA[chapters/Unit08/chapter18/9780199066445_Sst02_Asus02.swf]]></path>
+		<path><![CDATA[chapters/Unit08/chapter18/9780199066445_Sst02_Asus03.swf]]></path>
+	</lesson>
+</unit>
+
+<unit>
+	<Num><![CDATA[09]]></Num>
+	<name><![CDATA[Unit 9 : Geography]]></name>
+	<main><![CDATA[chapters/Unit09/Chapter19/9780199066445_Sst01_Was01.swf]]></main>
+	<main><![CDATA[chapters/Unit09/Chapter21/9780199066445_Sst02_Wtrs01.swf]]></main>
+	<lesson>
+		<name><![CDATA[Lesson 19-20 :]]></name>
+		<name><![CDATA[Weather and Seasons]]></name>	
+		<path><![CDATA[chapters/Unit09/Chapter19/9780199066445_Sst01_Was02.swf]]></path>
+		<path><![CDATA[chapters/Unit09/Chapter19/9780199066445_Sst01_Was03.swf]]></path>
+	</lesson>	
+	<lesson>
+		<name><![CDATA[Lesson 21 : Water]]></name>
+		<path><![CDATA[chapters/Unit09/Chapter21/9780199066445_Sst02_Wtrs02.swf]]></path>
+		<path><![CDATA[chapters/Unit09/Chapter21/9780199066445_Sst02_Wtrs03.swf]]></path>
+	</lesson>
+</unit>
+
+<mainFrame>
+	<text><![CDATA[Unit 1 : Myself and My Family]]></text>
+	<text><![CDATA[Unit 2 : My School]]></text>
+	<text><![CDATA[Unit 3 : Good Habits]]></text>
+	<text><![CDATA[Unit 5 : Buildings]]></text>
+	<text><![CDATA[Unit 6 : Time and Movement]]></text>
+	<text><![CDATA[Unit 8 : Animals and Plants]]></text>
+	<text><![CDATA[Unit 9 : Geography]]></text>
+</mainFrame>
+
+</data>
+</framexml>

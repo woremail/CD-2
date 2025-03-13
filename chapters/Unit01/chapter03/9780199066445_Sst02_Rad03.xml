@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<b>Mr Raza Ali's day</b>]]></text>
+<text><![CDATA[The picture shows the daily activity of Rehan. Click and drag the picture to the space with the correct time of the day.]]></text>
+
+<!-- Timing -->
+
+
+<text><![CDATA[7:30 a.m.]]></text>
+<text><![CDATA[8:00 a.m.]]></text>
+<text><![CDATA[11:00 a.m.]]></text>
+<text><![CDATA[1:30 p.m.]]></text>
+<text><![CDATA[2:00 p.m.]]></text>
+<text><![CDATA[6:00 p.m.]]></text>
+<text><![CDATA[8:00 p.m.]]></text>
+<text><![CDATA[9:00 p.m.]]></text>
+
+
+<!-- Alpha changes -->
+
+<text1><![CDATA[10.30 a.m.]]></text1>
+<text1><![CDATA[5.30 a.m.]]></text1>
+<text1><![CDATA[9:00 a.m.]]></text1>
+
+<!-- caption 10 -->
+
+<text><![CDATA[having breakfast]]></text>
+<text><![CDATA[back from school]]></text>
+<text><![CDATA[playing with friends]]></text>
+<text><![CDATA[lunch]]></text>
+<text><![CDATA[break time]]></text>
+<text><![CDATA[bedtime]]></text>
+<text><![CDATA[at school]]></text>
+<text><![CDATA[dinner]]></text>
+
+<!-- Number -->
+
+<number><![CDATA[<B>1.</B>]]></number>
+<number><![CDATA[<B>2.</B>]]></number>
+<number><![CDATA[<B>3.</B>]]></number>
+<number><![CDATA[<B>4.</B>]]></number>
+<number><![CDATA[<B>5.</B>]]></number>
+<number><![CDATA[<B>6.</B>]]></number>
+<number><![CDATA[<B>7.</B>]]></number>
+<number><![CDATA[<B>8.</B>]]></number>
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[That is correct! Well done!]]></feedback>
+<feedback><![CDATA[Oh no! That is not correct. Try again!]]></feedback>
+<feedback><![CDATA[Oops! That is wrong too.]]></feedback>
+<feedback><![CDATA[Here is the correct answer.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+
+</data>
+</framexml>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<B>Weather and Seasons</B>]]></text>
+<text><![CDATA[Weather is the day to day condition of heat and cold, dryness or rain in a place.]]></text>
+<text><![CDATA[Seasons]]></text>
+<text><![CDATA[spring]]></text>
+<text><![CDATA[summer]]></text>
+<text><![CDATA[autumn]]></text>
+<text><![CDATA[winter]]></text>
+
+</data>
+</framexml>

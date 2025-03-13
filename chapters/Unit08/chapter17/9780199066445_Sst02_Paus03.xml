@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<b>Plants around us</b>]]></text>
+<!-- <text><![CDATA[Help the squirrels jump from one tree to another. Click the correct answer and complete the sentences.]]></text> -->
+<text><![CDATA[Help the squirrels jump from one tree to the other. Click the correct answer to complete the sentence.]]></text>
+
+<!-- Number -->
+
+<number><![CDATA[<B>1</B>]]></number>
+<number><![CDATA[<B>2</B>]]></number>
+<number><![CDATA[<B>3</B>]]></number>
+<number><![CDATA[<B>4</B>]]></number>
+<number><![CDATA[<B>5</B>]]></number>
+<number><![CDATA[<B>6</B>]]></number>
+<number><![CDATA[<B>7</B>]]></number>
+<number><![CDATA[<B>8</B>]]></number>
+<number><![CDATA[<B>9</B>]]></number>
+<number><![CDATA[<B>10</B>]]></number>
+
+<!-- Questions -->
+
+<Question><![CDATA[<B>Trees provide ________ for birds and animals.</B>]]></Question>
+<Option><![CDATA[ flowers]]></Option>
+<Option><![CDATA[ homes]]></Option>
+<Option><![CDATA[ wood]]></Option>
+<Option><![CDATA[ perfume]]></Option>
+
+<Question><![CDATA[<B>Animals that can be trained to work are called ________ animals.</B>]]></Question>
+<Option><![CDATA[ wild]]></Option>
+<Option><![CDATA[ tame]]></Option>
+<Option><![CDATA[ dangerous]]></Option>
+<Option><![CDATA[ lost]]></Option>
+
+<Question><![CDATA[<B>Plants keep the air ________.</B>]]></Question>
+<Option><![CDATA[ clean]]></Option>
+<Option><![CDATA[ dirty]]></Option>
+<Option><![CDATA[ hot]]></Option>
+<Option><![CDATA[ dusty]]></Option>
+
+<Question><![CDATA[<B>Chickens are reared on ________ farms.</B>]]></Question>
+<Option><![CDATA[ cattle]]></Option>
+<Option><![CDATA[ poultry]]></Option>
+<Option><![CDATA[ perfume]]></Option>
+<Option><![CDATA[ furniture]]></Option>
+
+<Question><![CDATA[<B>Trees provide ________ for people resting under them from the sun.</B>]]></Question>
+<Option><![CDATA[ wood]]></Option>
+<Option><![CDATA[ heat]]></Option>
+<Option><![CDATA[ shade]]></Option>
+<Option><![CDATA[ food]]></Option>
+
+<Question><![CDATA[<B>Camels, horses, and donkeys carry ________ on their backs.</B>]]></Question>
+<Option><![CDATA[ animals]]></Option>
+<Option><![CDATA[ furniture]]></Option>
+<Option><![CDATA[ loads]]></Option>
+<Option><![CDATA[ flowers]]></Option>
+
+<Question><![CDATA[<B>Chairs, tables, and beds are called ________.</B>]]></Question>
+<Option><![CDATA[ timber]]></Option>
+<Option><![CDATA[ furniture]]></Option>
+<Option><![CDATA[ utensils]]></Option>
+<Option><![CDATA[ cutlery]]></Option>
+
+<Question><![CDATA[<B>We get meat and ________ from buffaloes, cows, and goats.</B>]]></Question>
+<Option><![CDATA[ eggs]]></Option>
+<Option><![CDATA[ milk]]></Option>
+<Option><![CDATA[ wool]]></Option>
+<Option><![CDATA[ fruit]]></Option>
+
+<Question><![CDATA[<B>In cities, a lot of trees can be seen in ________. These places are for everyone to enjoy.</B>]]></Question>
+<Option><![CDATA[ buildings]]></Option>
+<Option><![CDATA[ parks]]></Option>
+<Option><![CDATA[ factories]]></Option>
+<Option><![CDATA[ offices]]></Option>
+
+<Question><![CDATA[<B>Chicken feathers are used to fill ________ and make dusters.</B>]]></Question>
+<Option><![CDATA[ baskets]]></Option>
+<Option><![CDATA[ boxes]]></Option>
+<Option><![CDATA[ pillows]]></Option>
+<Option><![CDATA[ bags]]></Option>
+
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[That is correct! Well done!]]></feedback>
+<feedback><![CDATA[Oh no! That is not correct. Try again!]]></feedback>
+<feedback><![CDATA[Oops! That is wrong too.]]></feedback>
+<feedback><![CDATA[Here is the correct answer.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+
+</data>
+</framexml>

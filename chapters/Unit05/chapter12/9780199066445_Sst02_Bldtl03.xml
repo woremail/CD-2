@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<B>Builders and tools</B>]]></text>
+<text><![CDATA[Complete the house. Look at the glowing part of the picture. Select the tool that will be used here.]]></text>
+<text><![CDATA[saw]]></text>
+<text><![CDATA[paintbrush]]></text>
+<text><![CDATA[trowel]]></text>
+<text><![CDATA[hammer]]></text>
+<text><![CDATA[screwdriver]]></text>
+<text><![CDATA[pipe wrench]]></text>
+<text><![CDATA[pliers]]></text>
+<text><![CDATA[shovel]]></text>
+
+<!-- Number -->
+
+<number><![CDATA[<B>1</B>]]></number>
+<number><![CDATA[<B>2</B>]]></number>
+<number><![CDATA[<B>3</B>]]></number>
+<number><![CDATA[<B>4</B>]]></number>
+<number><![CDATA[<B>5</B>]]></number>
+<number><![CDATA[<B>6</B>]]></number>
+<number><![CDATA[<B>7</B>]]></number>
+<number><![CDATA[<B>8</B>]]></number>
+<number><![CDATA[<B>9</B>]]></number>
+<number><![CDATA[<B>10</B>]]></number>
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[That is correct! Well done!]]></feedback>
+<feedback><![CDATA[Oh no! That is not correct. Try again!]]></feedback>
+<feedback><![CDATA[Oops! That is wrong too.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+<feedback><![CDATA[This is the correct answer.]]></feedback>
+
+
+</data>
+</framexml>

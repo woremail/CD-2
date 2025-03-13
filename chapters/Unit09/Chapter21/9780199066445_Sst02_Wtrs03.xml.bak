@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<b>Water</b>]]></text>
+<!-- <text><![CDATA[Look at the picture. Label the parts that are glowing.<BR>Drag the words to the correct area in the picture.]]></text> -->
+
+<text><![CDATA[Look at the picture. Label the parts. Drag the words to the correct area in the picture.]]></text>
+
+<!-- Number -->
+
+<number><![CDATA[<B>1</B>]]></number>
+<number><![CDATA[<B>2</B>]]></number>
+<number><![CDATA[<B>3</B>]]></number>
+<number><![CDATA[<B>4</B>]]></number>
+<number><![CDATA[<B>5</B>]]></number>
+<number><![CDATA[<B>6</B>]]></number>
+<number><![CDATA[<B>7</B>]]></number>
+<number><![CDATA[<B>8</B>]]></number>
+<number><![CDATA[<B>9</B>]]></number>
+<number><![CDATA[<B>10</B>]]></number>
+
+<!-- Questions -->
+
+<lable><![CDATA[clouds]]></lable>
+<lable><![CDATA[rain]]></lable>
+<lable><![CDATA[mountain]]></lable>
+<lable><![CDATA[lake]]></lable>
+<lable><![CDATA[dam]]></lable>
+<lable><![CDATA[river]]></lable>
+<lable><![CDATA[canal]]></lable>
+<lable><![CDATA[sea]]></lable>
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[That is correct! Well done!]]></feedback>
+<feedback><![CDATA[Oh no! That is not correct. Try again!]]></feedback>
+<feedback><![CDATA[Oops! That is wrong too.]]></feedback>
+<feedback><![CDATA[Here is the correct answer.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+
+</data>
+</framexml>
